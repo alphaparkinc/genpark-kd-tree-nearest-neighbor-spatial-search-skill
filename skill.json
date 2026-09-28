@@ -1,0 +1,20 @@
+{
+  "name": "genpark-kd-tree-nearest-neighbor-spatial-search-skill",
+  "version": "1.0.0",
+  "description": "k-Dimensional Tree (KD-Tree) spatial index with median partitioning and k-NN branch-and-bound queries",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "kd-tree",
+    "nearest-neighbor",
+    "knn",
+    "spatial-index",
+    "branch-and-bound",
+    "computational-geometry",
+    "python-standard-library",
+    "agent-skills",
+    "range-query",
+    "multidimensional-search"
+  ]
+}
