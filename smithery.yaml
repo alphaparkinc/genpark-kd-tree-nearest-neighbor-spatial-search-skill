@@ -1,0 +1,6 @@
+name: genpark-kd-tree-nearest-neighbor-spatial-search-skill
+version: 1.0.0
+description: k-Dimensional Tree (KD-Tree) spatial index with median partitioning and k-NN branch-and-bound queries
+command: python
+args:
+  - mcp_server.py
