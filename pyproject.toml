@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-kd-tree-nearest-neighbor-spatial-search-skill"
+version = "1.0.0"
+description = "k-Dimensional Tree (KD-Tree) spatial index with median partitioning and k-NN branch-and-bound queries"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
